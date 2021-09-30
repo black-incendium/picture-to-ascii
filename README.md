@@ -3,9 +3,9 @@ Basic picture to ASCII art converter, implemented fully in pure javascript, css,
 
 ## live version
 Live version of project is available on this page in projects section:\
-[jakubkolodziej.com](jakubkolodziej.com 'homepage')\
+[jakubkolodziej.com](https://www.jakubkolodziej.com 'homepage')\
 direct link:\
-[jakubkolodziej.com/picture-to-ascii](jakubkolodziej.com/picture-to-ascii 'direct project link')
+[jakubkolodziej.com/picture-to-ascii](https://www.jakubkolodziej.com/picture-to-ascii 'direct project link')
 
 ------------
 
